@@ -1,3 +1,3 @@
 # trendingPostBot
 
-This is my discord bot that grabs random trending reddit posts on a specified subreddit and returns the picture of the post. Uses the APIs discord.py and PRAW.
+This is a discord bot that grabs random trending reddit posts on a specified subreddit and returns the picture of the post. Uses the APIs discord.py and PRAW.
